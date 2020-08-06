@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_OUoZILYUEeqcgq0wBu2meg" label="MYTEST" description="" language="java" technicalLabel="MYTEST" creationDate="2020-03-12T17:23:11.825+0100" author="_OUoZIbYUEeqcgq0wBu2meg" productVersion="Talend Real-time Big Data Platform-7.3.1.20200622_0511-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/fbellanti/TL731&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_OUoZILYUEeqcgq0wBu2meg" label="MYTEST" description="" language="java" technicalLabel="MYTEST" creationDate="2020-03-12T17:23:11.825+0100" author="_OUoZIbYUEeqcgq0wBu2meg" productVersion="Talend Real-time Big Data Platform-7.3.1.20200723_1558-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/fbellanti/TL731&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_OhKZQLYUEeqcgq0wBu2meg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_OUoZIbYUEeqcgq0wBu2meg" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
