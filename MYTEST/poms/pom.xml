@@ -9,8 +9,8 @@
   <name>MYTEST Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
-    <module>code/routines</module>
     <module>code/beans</module>
+    <module>code/routines</module>
     <module>jobs/process/test_0.1</module>
   </modules>
   <properties>
@@ -126,7 +126,7 @@
       <plugin>
         <groupId>org.talend.ci</groupId>
         <artifactId>builder-maven-plugin</artifactId>
-        <version>7.3.2</version>
+        <version>7.3.3</version>
         <executions>
           <execution>
             <phase>generate-sources</phase>
